@@ -1,4 +1,4 @@
-# Tegion-Launcher
+# Tegion Launcher
 
 Tegion Launcher is designed to be a **bare bones** game launcher for macOS, the app was also created with keeping the same design style of Apple.
 
